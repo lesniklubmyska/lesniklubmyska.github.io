@@ -14,7 +14,7 @@ author: PRT
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-   Home : "index"
+    Nabízíme : "/pages/nabizime"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
