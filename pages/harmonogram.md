@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: DENNÍ HARMONOGRAM
+title: "DENNÍ HARMONOGRAM"
 subtitle:  
 ---
 

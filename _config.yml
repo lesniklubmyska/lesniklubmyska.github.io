@@ -18,6 +18,11 @@ navbar-links:
     Ocásci : "/pages/ocasci"
     Chod klubu : "/pages/chod"
     Denní Harmonogram: "/pages/harmonogram"
+    Deti :
+        - Dítě do lesního klubu potřebuje: "/pages/dite_potrebuje"
+    Spolupráce s rodinou: "/pages/spoluprace_s_rod.md"
+    My:
+        - Kateřina Laštůvková: "/pages/K_Lastuvkova.md"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
