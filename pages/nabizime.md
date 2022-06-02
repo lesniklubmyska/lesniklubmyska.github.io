@@ -15,9 +15,9 @@ subtitle:
 - Dvě dospělé průvodkyně na maximálně 12 dětí - vycházející ze zážitkové a přírodní pedagogiky (Hra je prostředkem k učení- spontánní hra a přímá zkušenost).
 
 
-__Děti budou mít v průběhu celého dne zajištěný pitný režim, dopolední a odpolední svačinu si nachystají za asistence průvodců. Teplé obědy zajistí Restaurace Na Rozhraní, kde je možné domluvit zvláštní dietetické požadavky.
+Děti budou mít v průběhu celého dne zajištěný pitný režim, dopolední a odpolední svačinu si nachystají za asistence průvodců. Teplé obědy zajistí Restaurace Na Rozhraní, kde je možné domluvit zvláštní dietetické požadavky.
 
 
-__Lesní klub Myška je určen dětem ve věku 3 -  7 let, které již běžně používají toaletu (jsou bez plenek) a zvládnou ujít alespoň 1 km terénem. 
+Lesní klub Myška je určen dětem ve věku 3 -  7 let, které již běžně používají toaletu (jsou bez plenek) a zvládnou ujít alespoň 1 km terénem. 
 
 
