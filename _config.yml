@@ -17,6 +17,7 @@ navbar-links:
     Nabízíme : "/pages/nabizime"
     Ocásci : "/pages/ocasci"
     Chod klubu : "/pages/chod"
+    Denní Harmonogram: "/pages/harmonogram"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"

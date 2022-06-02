@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chod klubu
-subtitle:  Tři dny v týdnu: po, út, st 7.30 - 16:00
+subtitle:  "Tři dny v týdnu: po, út, st 7.30 - 16:00"
 ---
 
 
