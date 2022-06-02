@@ -15,7 +15,8 @@ author: PRT
 
 navbar-links:
     Nabízíme : "/pages/nabizime"
-    Ocásci : "/pages/ocasci.md"
+    Ocásci : "/pages/ocasci"
+    Chod klubu : "/pages/chod"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
