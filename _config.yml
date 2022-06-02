@@ -20,9 +20,9 @@ navbar-links:
     Denní Harmonogram: "/pages/harmonogram"
     Deti :
         - Dítě do lesního klubu potřebuje: "/pages/dite_potrebuje"
-    Spolupráce s rodinou: "/pages/spoluprace_s_rod.md"
+    Spolupráce s rodinou: "/pages/spoluprace_s_rod"
     My:
-        - Kateřina Laštůvková: "/pages/K_Lastuvkova.md"
+        - Kateřina Laštůvková: "/pages/K_Lastuvkova"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
