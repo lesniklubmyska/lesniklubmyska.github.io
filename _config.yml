@@ -15,14 +15,15 @@ author: PRT
 
 navbar-links:
     Nabízíme : "/pages/nabizime"
-    Ocásci : "/pages/ocasci"
-    Chod klubu : "/pages/chod"
+    Chod klubu/ceník : "/pages/chod"
     Denní Harmonogram: "/pages/harmonogram"
-    Deti :
-        - Dítě do lesního klubu potřebuje: "/pages/dite_potrebuje"
+    S sebou: "/pages/dite_potrebuje"
+    Klubík Ocásci : "/pages/ocasci"
     Spolupráce s rodinou: "/pages/spoluprace_s_rod"
     My:
         - Kateřina Laštůvková: "/pages/K_Lastuvkova"
+        - Anna Roth:"/pages/A_Roth"
+        
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
