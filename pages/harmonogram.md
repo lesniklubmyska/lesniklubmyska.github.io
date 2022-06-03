@@ -7,7 +7,7 @@ subtitle:
  
 - __7.30 – 9:00__ příchod dětí, volná hra
 - __9:00 – 9:30__ svačina 
-- __9:30 – 10:00__ ranní kruh na zahradě fary (přivítání, píseň, rytmická část říkadla, písničky, tanečky, tématické příběhy
+- __9:30 – 10:00__ ranní kruh na zahradě fary (přivítání, píseň, rytmická část říkadla, písničky, tanečky, tématické příběhy)
 - __10:00 - 11:45__ pobyt v terénu (např. prolézačky z klád, sledování životních cyklů zvířat, rostlin, péče o přírodu – čištění studánek, land art, pohybové hry v přírodě), v případě nepříznivého počasí aktivity uvnitř 
 - __11:45 - 12:00__ návrat na faru, hygiena, příprava na oběd
 - __12:00 - 12:30__ oběd
