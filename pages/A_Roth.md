@@ -1,8 +1,8 @@
-
 ---
 layout: page
 title: "Anna Roth"
-subtitle:  Hlavní vedouci Klubíčka Ocásci
+subtitle:  Hlavní vedoucí Klubíčka Ocásci
 ---
 
+... 
 
