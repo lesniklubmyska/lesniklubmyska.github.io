@@ -17,5 +17,6 @@ subtitle:
 - __15:00 – 15:30__ společná příprava svačiny, svačina
 - __15:30 – 16:30__ volná hra
 - __16:30__ ukončení aktivit Lesního klubu Myška
+  
 Odpolední předávání dětí se uskutečňuje v době od 12:30 do 13:00 a pak od 14 hod průběžně celé odpoledne.
 
