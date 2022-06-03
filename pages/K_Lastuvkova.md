@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kateřina Laštůvková"
-subtitle:  
+subtitle:  Hlavní vedouci Lesního klubu Myška
 ---
 
 Narodila jsem se v Podkrkonoší, na hranicích Českého ráje, vystudovala v Brně agroekologii a usadila se v Letovicích.  

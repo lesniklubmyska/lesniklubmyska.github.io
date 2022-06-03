@@ -22,7 +22,7 @@ navbar-links:
     Spolupráce s rodinou: "/pages/spoluprace_s_rod"
     My:
         - Kateřina Laštůvková: "/pages/K_Lastuvkova"
-        - Anna Roth:"/pages/A_Roth"
+        - Anna Roth: "/pages/A_Roth"
         
 #  About Me: "aboutme"
 #  Resources:
@@ -49,9 +49,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "lkmyska@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: lesniklubmyska 
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
