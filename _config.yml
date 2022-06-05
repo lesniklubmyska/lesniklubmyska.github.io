@@ -23,9 +23,12 @@ navbar-links:
     My:
         - Kateřina Laštůvková: "/pages/K_Lastuvkova"
         - Anna Roth: "/pages/A_Roth"
-        - Prúvodci:
-            -- Kateřina Laštůvková: "/pages/K_Lastuvkova"
-            -- Anna Roth: "/pages/A_Roth"
+        - Barbora Divišová: "/pages/B_Divisova"
+        - Marie Mlejnková: "/pages/M_Mlejnkova.md"
+        - Ivana Kuncová:
+    Kontakt:
+        - Lesní klub Myška: "pages/kontakt.md"
+        - Zřizovatel: "pages/zridovatel.md"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -66,7 +69,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +420799501437
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
