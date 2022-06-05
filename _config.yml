@@ -25,7 +25,7 @@ navbar-links:
         - Anna Roth: "/pages/A_Roth"
         - Barbora Divišová: "/pages/B_Divisova"
         - Marie Mlejnková: "/pages/M_Mlejnkova"
-        - Ivana Kuncová:
+        - Ivana Kuncová: "pages/I_Kuncova.md"
     Kontakt:
         - Lesní klub Myška: "pages/kontakt"
         - Zřizovatel: "pages/zridovatel"
