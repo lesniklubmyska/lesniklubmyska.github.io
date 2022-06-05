@@ -25,10 +25,10 @@ navbar-links:
         - Anna Roth: "/pages/A_Roth"
         - Barbora Divišová: "/pages/B_Divisova"
         - Marie Mlejnková: "/pages/M_Mlejnkova"
-        - Ivana Kuncová: "pages/I_Kuncova.md"
+        - Ivana Kuncová: "/pages/I_Kuncova.md"
     Kontakt:
-        - Lesní klub Myška: "pages/kontakt"
-        - Zřizovatel: "pages/zridovatel"
+        - Lesní klub Myška: "/pages/kontakt"
+        - Zřizovatel: "/pages/zridovatel"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
