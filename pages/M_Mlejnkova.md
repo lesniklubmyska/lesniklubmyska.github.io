@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Marie Mlejnková"
-subtitle:  "učitelka MŠ, aktuálně na MD"
+subtitle: "Zástupce" 
 ---
-
+Učitelka MŠ, aktuálně na MD.

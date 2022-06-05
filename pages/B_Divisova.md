@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Barbora Divišová" 
-subtitle: "učitelka ZŠ, aktuálně na MD"
+subtitle: "Zástupce" 
 ---
-
+Učitelka ZŠ, aktuálně na MD.
