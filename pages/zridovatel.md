@@ -1,5 +1,7 @@
 ---
 layout: page
+title: ""
+subtitle: ""
 ---
 
 Mateřské centrum Veselý Paleček z.s.  
