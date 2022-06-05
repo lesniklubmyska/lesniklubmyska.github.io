@@ -24,11 +24,11 @@ navbar-links:
         - Kateřina Laštůvková: "/pages/K_Lastuvkova"
         - Anna Roth: "/pages/A_Roth"
         - Barbora Divišová: "/pages/B_Divisova"
-        - Marie Mlejnková: "/pages/M_Mlejnkova.md"
+        - Marie Mlejnková: "/pages/M_Mlejnkova"
         - Ivana Kuncová:
     Kontakt:
-        - Lesní klub Myška: "pages/kontakt.md"
-        - Zřizovatel: "pages/zridovatel.md"
+        - Lesní klub Myška: "pages/kontakt"
+        - Zřizovatel: "pages/zridovatel"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
