@@ -9,3 +9,11 @@ Největší školou jsou mi naši dva kluci, kteří mě neustále dávají podn
 Od dětství můj život formoval skautský svět, vedla jsem skautský oddíl v Lomnici nad Popelkou a později v Semilech, v současnosti vedu oddíl benjamínků v Letovicích a lektoruji na skautských vzdělávacích akcích.  
 Dalším výrazným činitelem, který formoval můj vztah k dětem a přírodě, byla práce na Lipce, brněnském školském zařízení pro environmentální vzdělávání, kde jsem několik let působila jako ekopedagog a od nejpovolanějších nasávala  metody, náměty a myšlenky pro ekovýchovu.  
 Mám zkušenosti s prací s dětmi se specifickými vzdělávacími potřebami, vedením pobytových i příměstských táborů, poznám blešivce potočního i douglasku tisolistou, na počítači píšu všemi deseti, umím rozdělat oheň na jednu sirku i poskytnout první pomoc. Miluji zříceniny hradů, Skotsko, dobrou kávu, fantasy, práci, která je za mnou vidět, a sukně.
+
+
+{% include image.html
+            img="assets/img_pages/K_Lastuvkova/res_DSC09247.jpg"
+            title="Kateřina Laštůvková"
+            caption="Kateřina Laštůvková" 
+            %}
+

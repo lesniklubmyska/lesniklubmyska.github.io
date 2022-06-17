@@ -32,3 +32,10 @@ Od podzimu začínám opět tančit s dětmi i dospělými.
 Miluji svoji rodinu, šaty, vodu ve skupenství tekutém, tanec, improvizaci,
 čokoládu a dětský smích.  
 Je mi ctí spoluzakládat Lesní klub na Rozhraní.
+
+{% include image.html
+            img="assets/img_pages/A_Roth/res_DSC_0751_2.jpg"
+            title="Anna Roth"
+            caption="Anna Roth" 
+            %}
+
