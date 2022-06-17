@@ -27,3 +27,9 @@ Lesní klub Myška je určen dětem ve věku 3 -  7 let, které již běžně po
             caption="" 
             %}
 
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220608_191402.jpg"
+            title=""
+            caption="" 
+            %}
+
