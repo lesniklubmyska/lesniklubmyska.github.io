@@ -21,3 +21,8 @@ Děti budou mít v průběhu celého dne zajištěný pitný režim, dopolední 
 Lesní klub Myška je určen dětem ve věku 3 -  7 let, které již běžně používají toaletu (jsou bez plenek) a zvládnou ujít alespoň 1 km terénem. 
 
 
+{% include image.html
+            img="assets/img_pages/Nabizime/res_IMG_20220608_190945.jpg"
+            title="title"
+            caption="caption" 
+            %}
