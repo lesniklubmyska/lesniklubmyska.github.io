@@ -2,6 +2,7 @@
 layout: page 
 title: Nabízíme
 subtitle: 
+cover-img: ["assets/img_pages/Nabizime/res_IMG_20220608_190945.jpg", "assets/img_pages/Nabizime/res_IMG_20220615_105901.jpg", "assets/img_pages/Nabizime/res_IMG_20220615_105901.jpg", "assets/img_pages/Nabizime/res_IMG_20220615_111102.jpg"]
 ---
 
 - Alternativu klasického předškolního vzdělání 
