@@ -23,6 +23,61 @@ Lesní klub Myška je určen dětem ve věku 3 -  7 let, které již běžně po
 
 {% include image.html
             img="assets/img_pages/Nabizime/res_IMG_20220608_190945.jpg"
-            title="title"
-            caption="caption" 
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220608_190945.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220608_191402.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_105706.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_105748.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_105809.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_105901.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_111102.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_111121.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_111139.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_111152.jpg"
+            title=""
+            caption="" 
+            %}
+{% include image.html
+            img="assets/img_pages/Nabizime/"res_IMG_20220615_111158.jpg"
+            title=""
+            caption="" 
             %}
