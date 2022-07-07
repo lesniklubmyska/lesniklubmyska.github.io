@@ -2,7 +2,6 @@
 layout: page
 title: Chod klubu
 subtitle:  "Tři dny v týdnu: po, út, st 7.30 - 16:00"
-footer-extra: "my_info.html"
 ---
 
 Lesní klub není zřizován státem, jsme zcela závislí na financích rodičů a dárců.  
@@ -16,4 +15,6 @@ Třídenní docházka (3 dny v týdnu)  | 3.200,- Kč/měsíc
 
 Celodenní docházka 1-3 dny v týdnu (v případě zájmu jsme ochotni navýšit počet dnů docházky).
 Pokud zájem rodičů převáží kapacitu klubu, zavede zřizovatel čekací listinu náhradníků, kteří jsou přijímáni podle volných kapacit.
-
+  
+  
+[PŘIHLÁŠKA]("https://forms.gle/y2jwnzvyWwpKp6qW9")

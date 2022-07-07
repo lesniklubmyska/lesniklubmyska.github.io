@@ -29,6 +29,7 @@ navbar-links:
     Kontakt:
         - Lesní klub Myška: "/pages/kontakt"
         - Zřizovatel: "/pages/zridovatel"
+    PŘIHLÁŠKA: "https://forms.gle/y2jwnzvyWwpKp6qW9"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
