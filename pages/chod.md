@@ -17,4 +17,4 @@ Celodenní docházka 1-3 dny v týdnu (v případě zájmu jsme ochotni navýši
 Pokud zájem rodičů převáží kapacitu klubu, zavede zřizovatel čekací listinu náhradníků, kteří jsou přijímáni podle volných kapacit.
   
   
-[PŘIHLÁŠKA]("https://forms.gle/y2jwnzvyWwpKp6qW9")
+[PŘIHLÁŠKA](https://forms.gle/y2jwnzvyWwpKp6qW9)
