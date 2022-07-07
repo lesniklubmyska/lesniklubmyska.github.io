@@ -2,6 +2,7 @@
 layout: page
 title: Chod klubu
 subtitle:  "Tři dny v týdnu: po, út, st 7.30 - 16:00"
+footer-extra: "my_info.html"
 ---
 
 Lesní klub není zřizován státem, jsme zcela závislí na financích rodičů a dárců.  
