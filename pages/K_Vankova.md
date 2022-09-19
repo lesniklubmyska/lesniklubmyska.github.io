@@ -10,7 +10,7 @@ zavedla láska k přírodě a touha po venkovské pohodě.
 Odmalička jsem byla vedena ke sportu od gymnastiky přes volejbal až po
 bodyfitness, což bylo základem i pro mé povolání, jelikož pracuji jako
 instruktor fitness, masér, výživový a homeopatický poradce. Ovšem vše z
-toho s maximálním důrazem na jemnost a přirozenost. [zij-svuj-sen](www.zij-svuj-sen.cz)  
+toho s maximálním důrazem na jemnost a přirozenost. [zij-svuj-sen](http://www.zij-svuj-sen.cz)  
 Dále jsem úspěšně absolvovala studium Speciální pedagogiky a poté jsem 1 a
 půl roku pracovala jako speciální pedagog pro dospělé s mentálním
 postižením.  
