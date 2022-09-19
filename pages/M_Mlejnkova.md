@@ -12,3 +12,11 @@ Po vysoké škole jsem začala pracovat v dětské léčebně, kde byl kladen d
 V osobním ale i profesním životě je mi blízký přístup respektovat a být respektován, který se snažím používat.   
 V Letovicích se podílím na aktivitách v mateřském centru, organizuji příměstské tábory.  
 V současné době jsem na mateřské dovolené s druhým dítětem a společně objevujeme svět. Mám velkou radost, že mohu být součástí nového lesního klubu u nás na Rozhraní.
+
+
+{% include image.html
+            img="assets/img_pages/M_Mlejnkova/foto.jpg
+            title="Kateřina Laštůvková"
+            caption="Kateřina Laštůvková" 
+            %}
+
