@@ -16,7 +16,7 @@ V současné době jsem na mateřské dovolené s druhým dítětem a společn
 
 {% include image.html
             img="assets/img_pages/M_Mlejnkova/foto.jpg
-            title="Kateřina Laštůvková"
-            caption="Kateřina Laštůvková" 
+            title="Marie Mlejnková"
+            caption="Marie Mlejnková" 
             %}
 
