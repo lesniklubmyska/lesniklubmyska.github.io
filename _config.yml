@@ -29,9 +29,9 @@ navbar-links:
           #        - Barbora Divišová: "/pages/B_Divisova"
         - Marie Mlejnková: "/pages/M_Mlejnkova"
         - Karla Vaňková: "pages/K_Vankova"
-        - Ivana Kuncová: "/pages/I_Kuncova"
         - Soňa Dorňáková: "pages/S_Dornakova"
         - Simona Filová: "pages/S_Filova"
+        - Ivana Kuncová: "/pages/I_Kuncova"
     Kontakt:
         - Lesní klub Myška: "/pages/kontakt"
         - Zřizovatel: "/pages/zridovatel"
