@@ -24,8 +24,8 @@ navbar-links:
     Myšárium: "/pages/mysarium"
     Spolupráce s rodinou: "/pages/spoluprace_s_rod"
     My:
-        - Kateřina Laštůvková: "/pages/K_Lastuvkova"
-        - Anna Roth: "/pages/A_Roth"
+        # - Kateřina Laštůvková: "/pages/K_Lastuvkova"
+        # - Anna Roth: "/pages/A_Roth"
           #        - Barbora Divišová: "/pages/B_Divisova"
         - Marie Mlejnková: "/pages/M_Mlejnkova"
         - Lubomír Hejtmánek: "/pages/L_Hejtmanek"
@@ -76,7 +76,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +420799501437
+  telephone: "+420"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
