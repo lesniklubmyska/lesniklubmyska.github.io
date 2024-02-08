@@ -28,8 +28,9 @@ navbar-links:
         - Anna Roth: "/pages/A_Roth"
           #        - Barbora Divišová: "/pages/B_Divisova"
         - Marie Mlejnková: "/pages/M_Mlejnkova"
-        - Karla Vaňková: "pages/K_Vankova"
-        - Simona Filová: "pages/S_Filova"
+        - Lubomír Hejtmánek: "/pages/L_Hejtmanek"
+          #- Karla Vaňková: "pages/K_Vankova"
+          #- Simona Filová: "pages/S_Filova"
         - Ivana Kuncová: "/pages/I_Kuncova"
     Kontakt:
         - Lesní klub Myška: "/pages/kontakt"
