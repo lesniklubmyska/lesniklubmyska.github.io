@@ -21,6 +21,6 @@ duši v rámci své masérské živnosti.
 
 {% include image.html
             img="assets/img_pages/L_Hejtmanek/fotoj_2b.jpg"
-            title="Anna Roth"
-            caption="Anna Roth" 
+            title="Lubomír Hejtmánek"
+            caption="Lubomír Hejtmánek" 
             %}
