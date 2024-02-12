@@ -22,5 +22,5 @@ subtitle:
 
 Odpolední předávání dětí se uskutečňuje v době __od 12:30 do 13:00__  poté __od 14:00 do 16:00__ kdy je ukončen provoz klubu.
 
-  
--> __! prosíme o dodržení času k vyzvednutí dětí !__ <-
+|:---------|:---------:|-----------:|  
+| | __! prosíme o dodržení času k vyzvednutí dětí !_ | | 
