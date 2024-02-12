@@ -14,8 +14,6 @@ Dvoudenní docházka (2 dny v týdnu) | 2.700,- Kč/měsíc
 Třídenní docházka (3 dny v týdnu)  | 3.600,- Kč/měsíc
 Čtyřdenní docházka (4 dny v týdnu) | 4.500,- Kč/měsíc 
 
-Celodenní docházka 1-3 dny v týdnu.
-Čtyřdenní docházka bude zavedena při aspoň 4 zapsaných dětech na daný den.
 Pokud zájem rodičů převáží kapacitu klubu, zavede zřizovatel čekací listinu náhradníků, kteří jsou přijímáni podle volných kapacit.
   
   

@@ -20,8 +20,8 @@ navbar-links:
         - Chod klubu/ceník : "/pages/chod"
         - Denní Harmonogram: "/pages/harmonogram"
         - S sebou: "/pages/dite_potrebuje"
-    Klubík Ocásci : "/pages/ocasci"
-    Myšárium: "/pages/mysarium"
+          #Klubík Ocásci : "/pages/ocasci"
+    #Myšárium: "/pages/mysarium"
     Spolupráce s rodinou: "/pages/spoluprace_s_rod"
     My:
         # - Kateřina Laštůvková: "/pages/K_Lastuvkova"
