@@ -4,7 +4,6 @@ title: "Jana Křápková"
 subtitle: "Průvodce"
 ---
 
-Jana Křápková
 
 Jsem v lesní školce průvodkyní docela krátkou dobu, ale dostatečně dlouhou na to abych vnímala, jak důležitý krok to pro děti potažmo pro celou společnost je.   
 Vyrostla jsem na vesnici a tak je pro mě neodmyslitelné spojení s přírodou, kterou jsem denně obklopena.   
