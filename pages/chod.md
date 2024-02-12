@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chod klubu
-subtitle:  "Tři dny v týdnu: po, út, st 7.30 - 16:00"
+subtitle:  "Čtyři dny v týdnu: po, út, st, čt 7.30 - 16:00"
 ---
 
 Lesní klub není zřizován státem, jsme zcela závislí na financích rodičů a dárců.  
@@ -15,6 +15,9 @@ Třídenní docházka (3 dny v týdnu)  | 3.600,- Kč/měsíc
 Čtyřdenní docházka (4 dny v týdnu) | 4.500,- Kč/měsíc 
 
 Pokud zájem rodičů převáží kapacitu klubu, zavede zřizovatel čekací listinu náhradníků, kteří jsou přijímáni podle volných kapacit.
+ 
   
+  
+Pro školní rok 2023/24 činní cena za celodenní stravu (2* svačina, polévka, hlavní jídlo) 95 Kč na den.
   
 [PŘIHLÁŠKA](https://forms.gle/B37wT9471cDRP5zq6)
